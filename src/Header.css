@@ -1,0 +1,26 @@
+.Header{
+    width: 100%;
+    padding: 0 5%;
+    height: 6rem;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    position: fixed;
+    z-index: 2;
+}
+.logo{
+    height: 20%;
+    margin-right: 1rem;
+}
+
+.nav{
+    display:flex;
+}
+
+.nav-links{
+    list-style-type: none;
+    margin: 0 1rem;
+    color: #fff;
+    text-transform: lowercase;
+    cursor: pointer;
+}
