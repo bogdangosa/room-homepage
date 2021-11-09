@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/room-homepage/static/css/main.0797f8e2.chunk.css",
+    "main.js": "/room-homepage/static/js/main.4cdb73ee.chunk.js",
+    "main.js.map": "/room-homepage/static/js/main.4cdb73ee.chunk.js.map",
+    "runtime-main.js": "/room-homepage/static/js/runtime-main.ff491a58.js",
+    "runtime-main.js.map": "/room-homepage/static/js/runtime-main.ff491a58.js.map",
+    "static/js/2.3d8e07c3.chunk.js": "/room-homepage/static/js/2.3d8e07c3.chunk.js",
+    "static/js/2.3d8e07c3.chunk.js.map": "/room-homepage/static/js/2.3d8e07c3.chunk.js.map",
+    "index.html": "/room-homepage/index.html",
+    "static/css/main.0797f8e2.chunk.css.map": "/room-homepage/static/css/main.0797f8e2.chunk.css.map",
+    "static/js/2.3d8e07c3.chunk.js.LICENSE.txt": "/room-homepage/static/js/2.3d8e07c3.chunk.js.LICENSE.txt",
+    "static/media/Main.css": "/room-homepage/static/media/image-about-dark.329bbc44.jpg",
+    "static/media/logo.8fad0542.svg": "/room-homepage/static/media/logo.8fad0542.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff491a58.js",
+    "static/js/2.3d8e07c3.chunk.js",
+    "static/css/main.0797f8e2.chunk.css",
+    "static/js/main.4cdb73ee.chunk.js"
+  ]
+}
